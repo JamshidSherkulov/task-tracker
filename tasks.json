@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "description": "Buy apple",
+    "status": "todo"
+  },
+  {
+    "id": 2,
+    "description": "Buy orange",
+    "status": "todo"
+  },
+  {
+    "id": 3,
+    "description": "Buy apple",
+    "status": "todo"
+  },
+  {
+    "id": 4,
+    "description": "Buy cherry",
+    "status": "todo"
+  }
+]
